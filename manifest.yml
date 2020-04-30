@@ -1,0 +1,6 @@
+applications:
+- name: covid-banking-virtual-assistant
+  command: npm start
+  path: .
+  memory: 256M
+  instances: 1
